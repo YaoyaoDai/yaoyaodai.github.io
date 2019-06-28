@@ -5,7 +5,7 @@ title: Publications
 
 <h4> Peer-reviewed Articles: </h4>
 
-<ul>
+<ul align='justify'>
   <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports” (In Chinese). Journal of Chinese Academy of Governance 4: 29-34. </li>
   <li>Yaoyao Dai, Chenyuan Ji, and Zijie Shao. Forthcoming. “Media Framing Effects in Public Opinion: A Survey Experiment in China” (In Chinese). Journal of Public Management.</li>
 </ul>
