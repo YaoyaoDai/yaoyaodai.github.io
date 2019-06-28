@@ -2,24 +2,11 @@
 layout: post
 title: About
 ---
-<p>
-This theme is available for free under the MIT open source software license.
-<br>
-The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
-<br>
-The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
-</p>
 
-<hr>
+<center>
+<img src="/images/daiyaoyao.jpg">
+</center>
 
 <p>
-Maecenas tempus ullamcorper ante, sed eleifend purus mollis a. Sed ut molestie eros. Etiam arcu mi, consequat id ligula nec, faucibus dictum tortor. Ut tempus felis non commodo luctus. Nunc ac ullamcorper leo. Suspendisse et lorem eu leo iaculis vehicula nec vel mauris. Nullam eget porta ante.
-</p>
-
-<p>
-Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent efficitur posuere nunc, non dapibus lectus placerat eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a tincidunt velit. Nam ac ultricies metus. Morbi non erat ac nunc rutrum congue. Aliquam ultrices viverra felis quis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-</p>
-
-<p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
+I am a comparative politics scholar and quantitative social scientist. I will receive a dual-title Ph.D. from the Departments of Political Science and Asian Studies at Pennsylvania State University in August 2019. In the fall of 2019, I will join NYU Abu Dhabi as a Postdoctoral Researcher before joining the UNC Charlotte Department of Political Science full time as an Assistant Professor in 2020. My substantive research interests include authoritarian politics, populism, and information manipulation. My methodological research focuses on computational social science, quantitative text analysis, measurement, and experiments.
 </p>
