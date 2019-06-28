@@ -4,7 +4,7 @@ title: About
 ---
 
 <center>
-<img src="/images/daiyaoyao.jpg">
+<img src="/images/yaoyaos.jpg">
 </center>
 
 <p>
