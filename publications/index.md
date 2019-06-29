@@ -31,10 +31,9 @@ title: Publications
   <li>Yaoyao Dai and Luwei Luqiu, “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Native Political Advertising.”</li>
 </ul>
 
-<h4> Working papers </h4>
+<h4> Working Papers: </h4>
 
 <ul align='justify'>
   <li>Yaoyao Dai, “Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models.”</li>
   <li>Yaoyao Dai, “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
-  <li>Yaoyao Dai and Luwei Luqiu, “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Native Political Advertising.”</li>
 </ul>
