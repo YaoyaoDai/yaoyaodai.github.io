@@ -13,7 +13,7 @@ title: Publications
 <h4> Editor-reviewed Articles: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Luwei Luqiu. 2018.  “<a href="http://comparativenewsletter.com/files/archived_newsletters/2018_fall.pdf">Foreign Native Advertising</a>”, <i>CP: Newsletter of the Comparative Politics Organized Section of the American Political Science Association 28(2): 25-31</i>. </li>
+  <li>Yaoyao Dai and Luwei Luqiu. 2018.  “Foreign Native Advertising”, <i>CP: Newsletter of the Comparative Politics Organized Section of the American Political Science Association 28(2): 25-31</i>. [<a href="http://comparativenewsletter.com/files/archived_newsletters/2018_fall.pdf">Article</a>]</li>
   <li>Yaoyao Dai and Zijie Shao. 2016. “Populism as a Strategy of Authoritarian Survival in China: Concept and Measurement”, <i>CP: Newsletter of the Comparative Politics Organized Section of the American Political Science Association 26(2): 31-40</i>.
 </ul>
 
