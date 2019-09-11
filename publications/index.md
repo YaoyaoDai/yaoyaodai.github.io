@@ -28,7 +28,7 @@ title: Publications
 <ul align='justify'>
   <li>Yaoyao Dai, “Anti-corruption Campaigns and Popular Support for Authoritarian Governments: A Survey Experiment in China.” [<a href="/files/Dai_Anti-Corruption.pdf">Article</a>]</li>
   <li>Yaoyao Dai and Benjamin Radford, “0-BlinC: Zero-Shot Bilingual Text Classification without Translation.” [<a href="/files/Dai_0BlinC.pdf">Article</a>]</li>
-  <li>Yaoyao Dai and Luwei Luqiu, “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Native Political Advertising.”</li>
+  <li>Yaoyao Dai and Luwei Luqiu, “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Political Native Advertising.” [<a href="/files/Dai_PNA.pdf">Article</a>]</li>
 </ul>
 
 <h4> Working Papers: </h4>
