@@ -20,7 +20,7 @@ title: Publications
 <h4> Other Publications: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai. 2018. “Populism and Abuse of Populism.” Tencent Dajia (Most influential self-media in China. Article has been viewed over 310,000 times).</li>
+  <li>Yaoyao Dai. 2018. “Populism and Abuse of Populism.” Tencent Dajia (Most influential self-media in China. Article has been viewed over 310,000 times). <a href="https://dajia.qq.com/original/owl/dyy180420.html">Article</a>]</li>
 </ul>
 
 <h4> Under Review: </h4>
