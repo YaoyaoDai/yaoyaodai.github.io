@@ -13,7 +13,18 @@ I am prepared to teach a range of substantive and methodological classes at both
   <li>Introduction to Comparative Politics (Matt Golder, Pennsylvania State University, Fall 2016).</li>
 </ul>
 
-<h4> Teaching Assistant: </h4>
+<h4> Guest Lectures: </h4>
+
+<ul align='justify'>
+  <li>Quantitative Political Analysis (Suzanna Linn, Pennsylvania State University, Fall 2017). </li>
+    <ul align='justify'>
+      <li>(Gave three lectures on hypothesis testing, data manipulation in R, and research ethics)</li>
+      <li>Data Manipulation in R Helpsheet</li>
+      <li>Merge Data in R Helpsheet</li>
+    </ul>
+</ul>
+
+<h4> Instructor: </h4>
 
 <ul align='justify'>
   <li>Introduction to Political Philosophy, TopU International Education, Beijing, China (2011, 2012).</li>
