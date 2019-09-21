@@ -3,9 +3,6 @@ layout: post
 title: TEACHING
 ---
 
-<p align='justify'>
-I am prepared to teach a range of substantive and methodological classes at both the undergraduate and graduate levels. In terms of substantive courses, I’d be delighted to teach classes on Comparative Politics, Authoritarian Politics, Chinese Politics, and Populism. In terms of methodological courses, I’d be excited to teach classes on Research Design, Quantitative Methods, Experiments, Text Analysis, and Machine Learning.</p>
-
 <h4> Teaching Assistant: </h4>
 
 <ul align='justify'>
