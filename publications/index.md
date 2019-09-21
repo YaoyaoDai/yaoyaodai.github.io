@@ -26,14 +26,21 @@ title: RESEARCH
 <h4> Under Review: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai, “Anti-corruption Campaigns and Popular Support for Authoritarian Governments: A Survey Experiment in China.” [<a href="/files/Dai_Anti-Corruption.pdf">Article</a>]</li>
-  <li>Yaoyao Dai and Benjamin Radford, “0-BlinC: Zero-Shot Bilingual Text Classification without Translation.” [<a href="/files/Dai_0BlinC.pdf">Article</a>]</li>
-  <li>Yaoyao Dai and Luwei Luqiu, “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Political Native Advertising.” [<a href="/files/Dai_PNA.pdf">Article</a>]</li>
+  <li>Yaoyao Dai. “Anti-corruption Campaigns and Popular Support for Authoritarian Governments: A Survey Experiment in China.” [<a href="/files/Dai_Anti-Corruption.pdf">Article</a>]</li>
+  <li>Yaoyao Dai and Benjamin Radford. “0-BlinC: Zero-Shot Bilingual Text Classification without Translation.” [<a href="/files/Dai_0BlinC.pdf">Article</a>]</li>
+  <li>Yaoyao Dai and Luwei Luqiu. “Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Political Native Advertising.” [<a href="/files/Dai_PNA.pdf">Article</a>]</li>
 </ul>
 
 <h4> Working Papers: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai, “Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models.” [<a href="/files/Dai_Populism.pdf">Article</a>]</li>
-  <li>Yaoyao Dai, “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
+  <li>Yaoyao Dai. “Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models.” [<a href="/files/Dai_Populism.pdf">Article</a>]</li>
+  <li>Yaoyao Dai. “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
+</ul>
+
+<h4> Works in Progress: </h4>
+
+<ul align='justify'>
+  <li>Yaoyao Dai and Burt Monroe. “Machine Biases and Where to Quantify Them.” </li>
+  <li>Yaoyao Dai and Benjamin Radford. “Structural Word Embeddings.”</li>
 </ul>
