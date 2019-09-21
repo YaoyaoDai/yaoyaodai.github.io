@@ -2,7 +2,7 @@ title:            Yaoyao Dai
 description:      Personal Webpage
 copyright:        Yaoyao Dai
 url: # add your custom site url (format: https://example.com)
-
+author: yaoyao_dai
 
 future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
