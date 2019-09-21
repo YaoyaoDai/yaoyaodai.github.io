@@ -12,6 +12,8 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+plugins:
+  - jekyll-seo-tag
 
 sass:
   sass_dir: _sass
