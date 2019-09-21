@@ -16,8 +16,8 @@ title: TEACHING
   <li>Quantitative Political Analysis (Suzanna Linn, Pennsylvania State University, Fall 2017). </li>
     <ul align='justify'>
       <li>(Gave three lectures on hypothesis testing, data manipulation in R, and research ethics)</li>
-      <li>[<a href="/files/DataInputHelpsheet.nb.html">Data Manipulation in R Helpsheet</a>]</li>
-      <li>Merge Data in R Helpsheet</li>
+      <li><a href="/files/DataInputHelpsheet.nb.html">Data Manipulation in R Helpsheet</a></li>
+      <li><a href="/files/DMergeDataHelpSheet.nb.html">Merge Data in R Helpsheet</a></li>
     </ul>
 </ul>
 
