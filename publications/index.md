@@ -43,4 +43,9 @@ title: RESEARCH
 <ul align='justify'>
   <li>Yaoyao Dai and Burt Monroe. “Machine Biases and Where to Quantify Them.” </li>
   <li>Yaoyao Dai and Benjamin Radford. “Structural Word Embeddings.”</li>
+  <li>aoyao Dai, Benjamin Radford, James Igoe Walsh, and Kaitlyn Webster. “Surveillance, Conflict, and Dissent: New Data, Methods, and Theory for the Information Era.” (Proposal Submitted for Department of Defense Basic Research Program.) </li>
+  <li>Yaoyao Dai and and Matt Golder. “Identifying Party Families with Cluster Analysis.”</li>
+  <li>Yaoyao Dai and Alexander Kustov. “When Do (and Don't) Politicians Use Populist Rhetoric? A Mobilization Model of Populism.” </li>
+  <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
+  <li>Yaoyao Dai and Luwei Luqiu. “Signaling Popularity or Strength?: Pro-government Mobilization in Hong Kong.” </li>
 </ul>
