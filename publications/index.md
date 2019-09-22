@@ -1,6 +1,6 @@
 ---
 layout: post
-title-heading: false
+title: null
 ---
 
 <h4> Peer-reviewed Articles: </h4>
