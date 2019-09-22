@@ -1,6 +1,5 @@
 ---
 layout: post
-title: false
 title-heading: false
 ---
 
