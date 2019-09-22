@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RESEARCH
+title-heading: false
 ---
 
 <h4> Peer-reviewed Articles: </h4>
