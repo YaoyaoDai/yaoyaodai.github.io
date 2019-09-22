@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RESEARCH
-featured-image: /images/header/propaganda.jpg
 ---
 
 <h4> Peer-reviewed Articles: </h4>
