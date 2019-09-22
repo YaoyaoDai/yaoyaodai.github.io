@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RESEARCH
+title: false
 title-heading: false
 ---
 
