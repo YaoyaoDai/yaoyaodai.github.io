@@ -26,15 +26,16 @@ title: RESEARCH
 <h4> Under Review: </h4>
 
 <ul align='justify'>
+  <li>Yaoyao Dai and Luwei Luqiu. “<a href="/files/Dai_PNA.pdf">Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Political Native Advertising</a>.” </li>
   <li>Yaoyao Dai. “<a href="/files/Dai_Anti-Corruption.pdf">Anti-corruption Campaigns and Popular Support for Authoritarian Governments: A Survey Experiment in China</a>.” </li>
   <li>Yaoyao Dai and Benjamin Radford. “<a href="/files/Dai_0BlinC.pdf">0-BlinC: Zero-Shot Bilingual Text Classification without Translation</a>.” </li>
-  <li>Yaoyao Dai and Luwei Luqiu. “<a href="/files/Dai_PNA.pdf">Credibility, Revenue, and Threatened Media Freedom: A Survey Experiment on Political Native Advertising</a>.” </li>
 </ul>
 
 <h4> Working Papers: </h4>
 
 <ul align='justify'>
   <li>Yaoyao Dai. “<a href="/files/Dai_Populism.pdf">Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models</a>.” </li>
+  <li>Yaoyao Dai and Alexander Kustov. “When Do (and Don't) Politicians Use Populist Rhetoric? A Mobilization Model of Populism.” </li>
   <li>Yaoyao Dai. “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
 </ul>
 
@@ -45,7 +46,6 @@ title: RESEARCH
   <li>Yaoyao Dai and Benjamin Radford. “Structural Word Embeddings.”</li>
   <li>Yaoyao Dai, Benjamin Radford, James Igoe Walsh, and Kaitlyn Webster. “Surveillance, Conflict, and Dissent: New Data, Methods, and Theory for the Information Era.” (Proposal Submitted for Department of Defense Basic Research Program.) </li>
   <li>Yaoyao Dai and and Matt Golder. “Identifying Party Families with Cluster Analysis.”</li>
-  <li>Yaoyao Dai and Alexander Kustov. “When Do (and Don't) Politicians Use Populist Rhetoric? A Mobilization Model of Populism.” </li>
   <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
   <li>Yaoyao Dai and Luwei Luqiu. “Signaling Popularity or Strength?: Pro-government Mobilization in Hong Kong.” </li>
 </ul>
