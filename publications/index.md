@@ -36,7 +36,6 @@ title: RESEARCH
 
 <ul align='justify'>
   <li>Yaoyao Dai. “<a href="/files/Dai_Populism.pdf">Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models</a>.” </li>
-  <li>Yaoyao Dai and Alexander Kustov. “When Do (and Don't) Politicians Use Populist Rhetoric? A Mobilization Model of Populism.” </li>
   <li>Yaoyao Dai. “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
 </ul>
 
