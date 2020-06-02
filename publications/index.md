@@ -6,8 +6,8 @@ title: RESEARCH
 <h4> Peer-reviewed Articles: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Luwei Luqiu. Forthcoming. “<a href="/files/DaiLuqiu_PNA2020.pdf">Camouflaged Propaganda: A Survey Experiment on Political Native Advertising</a>.” Research & Politics. </li>
-  <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports” (In Chinese). Journal of Chinese Academy of Governance 4: 29-34. </li>
+  <li>Yaoyao Dai and Luwei Luqiu. Forthcoming. “<a href="/files/DaiLuqiu_PNA2020.pdf">Camouflaged Propaganda: A Survey Experiment on Political Native Advertising</a>.” <i>Research & Politics</i>. </li>
+  <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports” (In Chinese). <i>Journal of Chinese Academy of Governance 4: 29-34</i>. </li>
 </ul>
 
 <h4> Editor-reviewed Articles: </h4>
