@@ -3,6 +3,14 @@ layout: post
 title: TEACHING
 ---
 
+<h4> Instructor: </h4>
+
+<ul align='justify'>
+  <li>Political Science Research Methods, University of North Carolina Charlotte (<a href = "/files/Syllabus_POLS2220_FALL2020.pdf">Fall 2020</a>).</li>
+</ul>
+  <li>Introduction to Political Philosophy, TopU International Education, Beijing, China (2011, 2012).</li>
+</ul>
+
 <h4> Teaching Assistant: </h4>
 
 <ul align='justify'>
@@ -19,10 +27,4 @@ title: TEACHING
       <li><a href="/files/DataInputHelpsheet.nb.html">Data Manipulation in R Helpsheet</a></li>
       <li><a href="/files/MergeDataHelpSheet.nb.html">Merge Data in R Helpsheet</a></li>
     </ul>
-</ul>
-
-<h4> Instructor: </h4>
-
-<ul align='justify'>
-  <li>Introduction to Political Philosophy, TopU International Education, Beijing, China (2011, 2012).</li>
 </ul>
