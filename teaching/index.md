@@ -7,7 +7,6 @@ title: TEACHING
 
 <ul align='justify'>
   <li>Political Science Research Methods, University of North Carolina Charlotte (<a href = "/files/Syllabus_POLS2220_FALL2020.pdf">Fall 2020</a>).</li>
-</ul>
   <li>Introduction to Political Philosophy, TopU International Education, Beijing, China (2011, 2012).</li>
 </ul>
 
