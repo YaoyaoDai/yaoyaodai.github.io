@@ -21,6 +21,7 @@ title: RESEARCH
 <h4> Other Publications: </h4>
 
 <ul align='justify'>
+  <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.washingtonpost.com/politics/2021/05/12/chinas-wolf-warrior-diplomats-like-talk-tough">China's 'wolf warrior' diplomats like to talk tough</a>.” The Washington Post, Monkey Cage. </li> 
   <li>Yaoyao Dai. 2018. “<a href="https://dajia.qq.com/original/owl/dyy180420.html">Populism and Abuse of Populism</a>.” Tencent Dajia (Most influential self-media in China. Article has been viewed over 310,000 times). </li>
 </ul>
 
@@ -36,11 +37,12 @@ title: RESEARCH
 <ul align='justify'>
   <li>Yaoyao Dai. “<a href="/files/Dai_Populism.pdf">Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models</a>.” </li>
   <li>Yaoyao Dai and Benjamin Radford. “<a href="/files/Dai_0BlinC.pdf">0-BlinC: Zero-Shot Bilingual Text Classification without Translation</a>.” </li>
-
 </ul>
 
 <h4> Works in Progress: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
+  <li>Yaoyao Dai, Matt Golder, Sona Golder, and Benjamin Radford,. “Attributing Policy Influence: A Transfer Learning Approach with Transformers.”</li>
+  <li>Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
+  <li>Yaoyao Dai, Robert Pinka, and Benjamin Radford. "Reducing Biases in Human Annotated Data."</li>
 </ul>
