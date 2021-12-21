@@ -30,7 +30,7 @@ title: RESEARCH
 
 <ul align='justify'>
   <li>Yaoyao Dai and Luwei Luqiu. “<a href="/files/Dai_Luqiu_WolfWarrior2021.pdf">China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy</a>.” </li>
-  <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
+  <li>Yaoyao Dai and Chiedo Nwankwor. “<a href="/files/DaiNwankwor_2021.pdf">Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria</a>.”</li>
 </ul>
 
 <h4> Working Papers: </h4>
