@@ -21,7 +21,8 @@ title: RESEARCH
 <h4> Other Publications: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.washingtonpost.com/politics/2021/05/12/chinas-wolf-warrior-diplomats-like-talk-tough">China's 'wolf warrior' diplomats like to talk tough</a>.” <i>The Washington Post, Monkey Cage</i>. </li> 
+  <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.nknews.org/pro/on-north-korea-chinas-wolf-warriors-speak-more-like-doves/">On North Korea, China's wolf warriors speak more like doves</a>.” <i>NK Pro</i>. </li>
+  <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.washingtonpost.com/politics/2021/05/12/chinas-wolf-warrior-diplomats-like-talk-tough">China's 'wolf warrior' diplomats like to talk tough</a>.” <i>The Washington Post, Monkey Cage</i>. </li>
   <li>Yaoyao Dai. 2018. “<a href="https://dajia.qq.com/original/owl/dyy180420.html">Populism and Abuse of Populism</a>.” Tencent Dajia (Most influential self-media in China. Article has been viewed over 310,000 times). </li>
 </ul>
 
