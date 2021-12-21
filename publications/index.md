@@ -28,7 +28,7 @@ title: RESEARCH
 
 <ul align='justify'>
   <li>Yaoyao Dai and Luwei Luqiu. “<a href="/files/Dai_Luqiu_WolfWarrior2021.pdf">China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy</a>.” </li>
-  <li>Yaoyao Dai. “<a href="/files/Dai_Anti-Corruption.pdf">Anti-corruption Campaigns and Popular Support for Authoritarian Governments: A Survey Experiment in China</a>.” </li>
+  <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
 </ul>
 
 <h4> Working Papers: </h4>
@@ -36,16 +36,11 @@ title: RESEARCH
 <ul align='justify'>
   <li>Yaoyao Dai. “<a href="/files/Dai_Populism.pdf">Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models</a>.” </li>
   <li>Yaoyao Dai and Benjamin Radford. “<a href="/files/Dai_0BlinC.pdf">0-BlinC: Zero-Shot Bilingual Text Classification without Translation</a>.” </li>
-  <li>Yaoyao Dai and Luwei Luqiu. “Credibility, Revenue, and Threatened Media Freedom.”</li>
-  <li>Yaoyao Dai. “Public Supporter, Private Dissenter?: How Cooptation and Repression Influence Regime Support.”</li>
+
 </ul>
 
 <h4> Works in Progress: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Burt Monroe. “Machine Biases and Where to Quantify Them.” </li>
-  <li>Yaoyao Dai and Benjamin Radford. “Structural Word Embeddings.”</li>
-  <li>Yaoyao Dai, Benjamin Radford, James Igoe Walsh, and Kaitlyn Webster. “Surveillance, Conflict, and Dissent: New Data, Methods, and Theory for the Information Era.” (Proposal Submitted for Department of Defense Basic Research Program.) </li>
-  <li>Yaoyao Dai and and Matt Golder. “Identifying Party Families with Cluster Analysis.”</li>
   <li>Yaoyao Dai and Chiedo Nwankwor. “Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria.”</li>
 </ul>
