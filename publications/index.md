@@ -8,7 +8,7 @@ title: RESEARCH
 <ul align='justify'>
   <li>Yaoyao Dai and Alexander Kustov. 2022 (forthcoming). “<a href="/files/DaiKustov2022.pdf">When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble</a>.” <i>Political Communication</i>. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2020. “<a href="https://journals.sagepub.com/doi/full/10.1177/2053168020935250">Camouflaged Propaganda: A Survey Experiment on Political Native Advertising</a>.” <i>Research & Politics</i>, 7(3), 2053168020935250. </li>
-  <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports” (In Chinese). <i>Journal of Chinese Academy of Governance 4: 29-34</i>. </li>
+  <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “<a href="/files/ShaoDaiXu2016.pdf">Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports</a>” (In Chinese). <i>Journal of Chinese Academy of Governance 4: 29-34</i>. </li>
 </ul>
 
 <h4> Editor-reviewed Articles: </h4>
