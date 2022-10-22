@@ -48,6 +48,7 @@ title: RESEARCH
 <h4> Works in Progress: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai, Matt Golder, Sona Golder, and Benjamin Radford,. “Attributing Policy Influence: A Transfer Learning Approach with Transformers.”</li>
-  <li>Xun Cao, Yaoyao Dai, and Yifei Zhu. "Measuring climate change emphasis among OECD countries using Party Manifestos."</li>
+  <li>Yaoyao Dai, Matt Golder, Sona Golder, and Benjamin Radford. “Attributing Policy Influence: A Transfer Learning Approach with Transformers.”</li>
+  <li>Yaoyao Dai, Alexander Kustov, Candace Miller, and Benjamin Radford. “How Social Scientists Learned to Stop Worrying and Love Immigration: A big-data Analysis of Academic Articles over the Past Century..”</li>
+  <li>Xun Cao, Yaoyao Dai, and Yifei Zhu. "Measuring Climate Change Emphasis among OECD Countries using Party Manifestos."</li>
 </ul>
