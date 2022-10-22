@@ -31,7 +31,9 @@ title: RESEARCH
 <h4> Under Review: </h4>
 
 <ul align='justify'>
+  <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov_The__Ineffectiveness_of_Populist_Rhetoric.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. </li>
   <li> Dongyun Han, Abdullah-Al-Raihan Nayeem, Jason Windett, Yaoyao Dai, Benjamin Radford, and Isaac Cho. "A Survey on Visualization Approaches in Political Science for Social and Political Factors."</li>
+  <li> Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
   <li> Yaoyao Dai and Luwei Luqiu. "China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy." (Book under contract) </li>
   <li>Yaoyao Dai and Chiedo Nwankwor. “<a href="/files/DaiNwankwor_2021.pdf">Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria</a>.”</li>
 </ul>
@@ -47,6 +49,5 @@ title: RESEARCH
 
 <ul align='justify'>
   <li>Yaoyao Dai, Matt Golder, Sona Golder, and Benjamin Radford,. “Attributing Policy Influence: A Transfer Learning Approach with Transformers.”</li>
-  <li>Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
-  <li>Yaoyao Dai, Robert Pinka, and Benjamin Radford. "Reducing Biases in Human Annotated Data."</li>
+  <li>Xun Cao, Yaoyao Dai, and Yifei Zhu. "Measuring climate change emphasis among OECD countries using Party Manifestos."</li>
 </ul>
