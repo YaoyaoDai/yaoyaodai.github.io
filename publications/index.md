@@ -31,7 +31,7 @@ title: RESEARCH
 <h4> Under Review: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov_The__Ineffectiveness_of_Populist_Rhetoric.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. </li>
+  <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov2022.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. </li>
   <li> Dongyun Han, Abdullah-Al-Raihan Nayeem, Jason Windett, Yaoyao Dai, Benjamin Radford, and Isaac Cho. "A Survey on Visualization Approaches in Political Science for Social and Political Factors."</li>
   <li> Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
   <li> Yaoyao Dai and Luwei Luqiu. "China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy." (Book under contract) </li>
