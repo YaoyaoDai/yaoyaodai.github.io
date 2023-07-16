@@ -9,7 +9,7 @@ title: RESEARCH
   <li>Yaoyao Dai and Alexander Kustov. 2022. “<a href="/files/DaiKustov2022.pdf">When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble</a>.” <i>Political Communication</i>, 1-22. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2022. “<a href="https://muse.jhu.edu/article/856656">Wolf Warriors and Diplomacy in the New Era: An Empirical Analysis of China’s Diplomatic Language</a>.” <i>The China Review</i>, 22(2), pp.253-283. </li>
   <li>Yaoyao Dai, Benjamin Radford and Andrew Halterman. 2022. “<a href="/files/CASE_2022.pdf">Political Event Coding as Text to Text Sequence Generation</a>.” <i>Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE).</i> Abu Dhabi, U.A.E. Association for Computational Linguistics, 117-123. </li>
-  <li>H{\"u}rriyeto{\u{g}}lu, Ali, Osman Mutlu, F{\i}rat Duru{\c{s}}an, Onur Uca, Alaeddin Sel{\c{c}}uk G{\"u}rel, Benjamin Radford, Yaoyao Dai, Hansi Hettiarachchi, Niklas Stoehr, Tadashi Nomoto, and others. 2022. “<a href="https://arxiv.org/abs/2211.11360">Extended Multilingual Protest News Detection--Shared Task 1, CASE 2021 and 2022.</a>.” <i>Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE).</i> Abu Dhabi, U.A.E. Association for Computational Linguistics, 223-228. </li>
+  <li>Ali Hürriyetoğlu, Osman Mutlu, Fırat Duruşan, Onur Uca, Alaeddin Selçuk Gürel, Benjamin Radford, Yaoyao Dai, Hansi Hettiarachchi, Niklas Stoehr, Tadashi Nomoto, Milena Slavcheva, Francielle Vargas, Aaqib Javid, Fatih Beyhan, Erdem Yörük. 2022. “<a href="https://arxiv.org/abs/2211.11360">Extended Multilingual Protest News Detection--Shared Task 1, CASE 2021 and 2022.</a>.” <i>Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE).</i> Abu Dhabi, U.A.E. Association for Computational Linguistics, 223-228. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2020. “<a href="https://journals.sagepub.com/doi/full/10.1177/2053168020935250">Camouflaged Propaganda: A Survey Experiment on Political Native Advertising</a>.” <i>Research & Politics</i>, 7(3), 2053168020935250. </li>
   <li>Yaoyao Dai, Zijie Shao, and Xianglin Xu. 2016. “<a href="/files/ShaoDaiXu2016.pdf">Agenda-Setting and International News Coverage: A Quantitative Text Analysis on China Central TV News Reports</a>” (In Chinese). <i>Journal of Chinese Academy of Governance 4: 29-34</i>. </li>
 </ul>
@@ -33,10 +33,10 @@ title: RESEARCH
 
 <ul align='justify'>
   <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov_conjoint.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. </li>
+  <li>Benjamin Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. "Estimating Conflict Losses and Reporting Biases."</li>
   <li> Dongyun Han, Abdullah-Al-Raihan Nayeem, Jason Windett, Yaoyao Dai, Benjamin Radford, and Isaac Cho. "A Survey on Visualization Approaches in Political Science for Social and Political Factors."</li>
   <li> Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
   <li> Yaoyao Dai and Luwei Luqiu. "China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy." (Book under contract) </li>
-  <li>Yaoyao Dai and Chiedo Nwankwor. “<a href="/files/DaiNwankwor_2021.pdf">Anti-corruption Campaigns and Popular Support for the Government: A Survey Experiment in Nigeria</a>.”</li>
 </ul>
 
 <h4> Working Papers: </h4>
@@ -44,6 +44,7 @@ title: RESEARCH
 <ul align='justify'>
   <li>Yaoyao Dai. “<a href="/files/Dai_Populism.pdf">Measuring Populism in Contexts: A Supervised Approach with Word Embedding Models</a>.” </li>
   <li>Yaoyao Dai and Benjamin Radford. “<a href="/files/Dai_0BlinC.pdf">0-BlinC: Zero-Shot Bilingual Text Classification without Translation</a>.” </li>
+  <li>Yaoyao Dai and Benjamin Radford. “Large Language Models for Measuring Contested and Multi-dimensional Concepts.” </li>
 </ul>
 
 <h4> Works in Progress: </h4>
