@@ -6,6 +6,7 @@ title: RESEARCH
 <h4> Peer-reviewed Articles: </h4>
 
 <ul align='justify'>
+  <li> Benjamin J. Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. 2023. "<a href="www.pnas.org/doi/10.1073/pnas.2307372120">Estimating Conflict Losses and Reporting Biases</a>." <i>Proceedings of the National Academy of Sciences</i>, 120(34).</li>
   <li>Yaoyao Dai and Alexander Kustov. 2022. “<a href="/files/DaiKustov2022.pdf">When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble</a>.” <i>Political Communication</i>, 1-22. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2022. “<a href="https://muse.jhu.edu/article/856656">Wolf Warriors and Diplomacy in the New Era: An Empirical Analysis of China’s Diplomatic Language</a>.” <i>The China Review</i>, 22(2), pp.253-283. </li>
   <li>Yaoyao Dai, Benjamin Radford and Andrew Halterman. 2022. “<a href="/files/CASE_2022.pdf">Political Event Coding as Text to Text Sequence Generation</a>.” <i>Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE).</i> Abu Dhabi, U.A.E. Association for Computational Linguistics, 117-123. </li>
@@ -32,9 +33,7 @@ title: RESEARCH
 <h4> Under Review: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov_conjoint.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. </li>
-  <li>Benjamin Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. "Estimating Conflict Losses and Reporting Biases."</li>
-  <li> Dongyun Han, Abdullah-Al-Raihan Nayeem, Jason Windett, Yaoyao Dai, Benjamin Radford, and Isaac Cho. "A Survey on Visualization Approaches in Political Science for Social and Political Factors."</li>
+  <li>Yaoyao Dai and Alexander Kustov. “<a href="/files/DaiKustov_conjoint.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging</a>.”. (Conditionally accepted at PSRM)</li>
   <li> Yaoyao Dai, Jingjing Gao, and Benjamin Radford. "From Fear to Hate: Anti-Asian Sentiment During COVID-19."</li>
   <li> Yaoyao Dai and Luwei Luqiu. "China's Wolf Warrior Diplomacy and Xi Jinping's Grand Diplomatic Strategy." (Book under contract) </li>
 </ul>
