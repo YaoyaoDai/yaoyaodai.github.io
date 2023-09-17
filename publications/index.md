@@ -6,8 +6,8 @@ title: RESEARCH
 <h4> Peer-reviewed Articles: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Alexander Kustov. Forthcoming. “<a href="/files/DaiKustov_conjoint.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging.</a>.” <i>Political Science Research Methods</i>, 1-22. </li>
-  <li> Benjamin J. Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. 2023. "<a href="https://doi.org/10.1080/10584609.2022.2025505">Estimating Conflict Losses and Reporting Biases</a>." <i>Proceedings of the National Academy of Sciences</i>, 120(34).</li>
+  <li>Yaoyao Dai and Alexander Kustov. Forthcoming. “<a href="/files/DaiKustov_conjoint.pdf">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging.</a>.” <i>Political Science Research Methods</i>. </li>
+  <li> Benjamin J. Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. 2023. "<a href="www.pnas.org/doi/10.1073/pnas.2307372120">Estimating Conflict Losses and Reporting Biases</a>." <i>Proceedings of the National Academy of Sciences</i>, 120(34).</li>
   <li>Yaoyao Dai and Alexander Kustov. 2022. “<a href="https://doi.org/10.1080/10584609.2022.2025505">When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble</a>.” <i>Political Communication</i>, 1-22. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2022. “<a href="https://muse.jhu.edu/article/856656">Wolf Warriors and Diplomacy in the New Era: An Empirical Analysis of China’s Diplomatic Language</a>.” <i>The China Review</i>, 22(2), pp.253-283. </li>
   <li>Yaoyao Dai, Benjamin Radford and Andrew Halterman. 2022. “<a href="/files/CASE_2022.pdf">Political Event Coding as Text to Text Sequence Generation</a>.” <i>Proceedings of the 5th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE).</i> Abu Dhabi, U.A.E. Association for Computational Linguistics, 117-123. </li>
@@ -32,7 +32,7 @@ title: RESEARCH
 <h4> Outreach Publications: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai. 2023. “<a href="https://theloop.ecpr.eu/dont-exaggerate-the-importance-of-populism/">Populism and Abuse of Populism</a>.” Don't Exaggerate the Importance of Populism. <i>The Loop</i>, The European Consortium For Political Research. </li>
+  <li>Yaoyao Dai. 2023. “<a href="https://theloop.ecpr.eu/dont-exaggerate-the-importance-of-populism/">Don't Exaggerate the Importance of Populism</a>.” <i>The Loop</i>, The European Consortium For Political Research. </li>
   <li> Benjamin J. Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. 2023. "<a href="https://theloop.ecpr.eu/estimating-troop-losses-on-both-sides-in-the-russia-ukraine-war/">Estimating Troop Losses on Both Sides in the Russia-Ukraine War.</a>." <i>The Loop</i>, The European Consortium For Political Research.</li>
   <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.nknews.org/pro/on-north-korea-chinas-wolf-warriors-speak-more-like-doves/">On North Korea, China's wolf warriors speak more like doves</a>.” <i>NK Pro</i>. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2021. “<a href="https://www.washingtonpost.com/politics/2021/05/12/chinas-wolf-warrior-diplomats-like-talk-tough">China's 'wolf warrior' diplomats like to talk tough</a>.” <i>The Washington Post, Monkey Cage</i>. </li>
