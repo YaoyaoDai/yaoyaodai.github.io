@@ -9,7 +9,7 @@ title: TEACHING
   <li><a href = "/files/POLS2220_Fall2021.pdf">Political Science Methods</a>, University of North Carolina Charlotte. </li>
   <li><a href = "/files/POLS1130_Comparative_Politics.pdf">Introduction to Comparative Politics</a>, University of North Carolina Charlotte. </li>
   <li><a href = "/files/Syllabus_AuthoritarianPolitics_SP2021.pdf">Authoritarian Politics</a>, University of North Carolina Charlotte. </li>
-  <li><a href = "/files/.pdf">Data Science for Politics</a>, University of North Carolina Charlotte. </li>
+  <li><a href = "/files/POLS_3030_Data_Science.pdf">Data Science for Politics</a>, University of North Carolina Charlotte. </li>
   <li>Introduction to Political Philosophy, TopU International Education, Beijing, China (2011, 2012).</li>
 </ul>
 
