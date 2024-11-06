@@ -32,7 +32,7 @@ title: RESEARCH
 <h4> Book Chapters </h4>
 
 <ul align='justify'>
-  <li> Yaoyao Dai. 2024. "L’importanza del populismo non va esagerata.” In <i><a href="https://arts.units.it/handle/11368/3095778">Capire il Populismo</a></i>. UTET (In Italian, other languages forthcoming). </li>
+  <li> Yaoyao Dai. 2024. "L’importanza del populismo non va esagerata.” In <i><a href="https://arts.units.it/handle/11368/3095778">Capire il Populismo</a></i>, ed. Mattia Zulianello and Petra Guasti. UTET (In Italian, other languages forthcoming). </li>
 </ul>
 
 <h4> Outreach Publications: </h4>
