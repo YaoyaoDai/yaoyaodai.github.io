@@ -6,7 +6,7 @@ title: RESEARCH
 <h4> Peer-reviewed Articles: </h4>
 
 <ul align='justify'>
-  <li>Yaoyao Dai and Alexander Kustov. Forthcoming. “<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/ineffectiveness-of-populist-rhetoric-a-conjoint-experiment-of-campaign-messaging/CF0C3E965F4FDC98412C426C861E37DF">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging.</a>.” <i>Political Science Research Methods</i>. </li>
+  <li>Yaoyao Dai and Alexander Kustov. 2024. “<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/ineffectiveness-of-populist-rhetoric-a-conjoint-experiment-of-campaign-messaging/CF0C3E965F4FDC98412C426C861E37DF">The (In)effectiveness of Populist Rhetoric: A Conjoint Experiment of Campaign Messaging.</a>.” <i>Political Science Research Methods 12(4)</i>, 849 - 856. </li>
   <li> Benjamin J. Radford, Yaoyao Dai, Niklas Stoehr, Aaron Schein, Mya Fernandez, Hanif Sajid. 2023. "<a href="https://www.pnas.org/doi/10.1073/pnas.2307372120">Estimating Conflict Losses and Reporting Biases</a>." <i>Proceedings of the National Academy of Sciences</i>, 120(34).</li>
   <li>Yaoyao Dai and Alexander Kustov. 2022. “<a href="https://doi.org/10.1080/10584609.2022.2025505">When Do Politicians Use Populist Rhetoric? Populism as a Campaign Gamble</a>.” <i>Political Communication</i>, 1-22. </li>
   <li>Yaoyao Dai and Luwei Luqiu. 2022. “<a href="https://muse.jhu.edu/article/856656">Wolf Warriors and Diplomacy in the New Era: An Empirical Analysis of China’s Diplomatic Language</a>.” <i>The China Review</i>, 22(2), pp.253-283. </li>
@@ -26,7 +26,13 @@ title: RESEARCH
 <h4> Books </h4>
 
 <ul align='justify'>
-  <li> Yaoyao Dai and Luwei Luqiu. Forthcoming. "Wolf Warrior Diplomacy and China's Ministry of Foreign Affairs: From Policy to Podium." Lexington Books. </li>
+  <li> Yaoyao Dai and Luwei Luqiu. 2024. "<a href="https://rowman.com/ISBN/9781666914054/Wolf-Warrior-Diplomacy-and-China%E2%80%99s-Ministry-of-Foreign-Affairs-From-Policy-to-Podium">Wolf Warrior Diplomacy and China's Ministry of Foreign Affairs: From Policy to Podium</a>." Lexington Books. </li>
+</ul>
+
+<h4> Book Chapters </h4>
+
+<ul align='justify'>
+  <li> Yaoyao Dai. 2024. "L’importanza del populismo non va esagerata.” In <i><a href="https://arts.units.it/handle/11368/3095778">Capire il Populismo</a></i>. UTET (In Italian, other languages forthcoming). </li>
 </ul>
 
 <h4> Outreach Publications: </h4>
